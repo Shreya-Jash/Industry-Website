@@ -1,0 +1,11 @@
+
+.fhalf{
+    background-color: rgba(14, 52, 102, 1);
+    width: 50%;
+    height: 500px;
+}
+form{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}

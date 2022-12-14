@@ -1,0 +1,15 @@
+.industry{
+
+}
+
+.industryimg{
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+}
+.industry{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
