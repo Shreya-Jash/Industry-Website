@@ -1,5 +1,5 @@
-.industry{
-
+#industry{
+    height: 900px;
 }
 
 .industryimg{
@@ -20,4 +20,15 @@
     padding-left: 80px;
     position: absolute;
     color: white;
+}
+
+.industrylogos{
+    margin-top: 20px;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
+}
+
+.industrynames{
+    /* padding-top: 50px; */
 }

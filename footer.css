@@ -21,6 +21,10 @@ footer{
 }
 
 .sstdiv{
+    padding: 20px;
+}
+
+.footerlist{
     display: flex;
 }
 
@@ -31,4 +35,9 @@ footer{
 .socialIcons{
     float: right;
     justify-content: space-around;
+}
+
+a:link{
+    text-decoration: none;
+    color: white;
 }

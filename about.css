@@ -1,0 +1,32 @@
+#about{
+    height: 1000px;
+}
+
+.aboutText{
+    position: absolute;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.secondimg{
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+}
+
+.cards{
+    position: absolute;
+    height: 400px;
+    display: flex;
+    right: 0;
+    padding-top: 300px;
+}
+
+.cardcom{
+    margin-right: 20px;
+    box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.07);
+}
+
+.cardimg{
+    height: 300px;
+}

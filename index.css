@@ -8,6 +8,11 @@
         height: 900px;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
+
+
+#home{
+    height: 900px;
+}
 header{
     padding-top: 5px;
         display: flex;
@@ -61,25 +66,15 @@ header{
         float: right;
     }
     .counts{
+        margin-top: 25px;
         display: flex;
         justify-content: space-around;
-        float: inline-end;
-        font-size: 40px;
-    }
-    .countText{
-        margin: 0;
-        display: flex;
-        justify-content: space-around;
-        
+        /* font-size: 40px; */
     }
 
-    .secondDiv{
-        max-width: 1600px;
-    }
-    .secondimg{
-        width: 100%;
-        height: 500px;
-        overflow: hidden;
+    .countno{
+        font-size: 60px;
+        margin: 0;
     }
 }
 
