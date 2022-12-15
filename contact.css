@@ -40,4 +40,6 @@ input{
 .sHalf{
     width: 50%;
     background-color: rgba(248, 248, 248, 1);
+    display: flex;
+    /* font-weight: lighter; */
 }

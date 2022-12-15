@@ -13,3 +13,11 @@
     margin-right: auto;
     width: 50%;
 }
+
+.industryText{
+    width: 500px;
+    padding-top: 80px;
+    padding-left: 80px;
+    position: absolute;
+    color: white;
+}
