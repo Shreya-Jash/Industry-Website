@@ -1,5 +1,5 @@
 #about{
-    height: 1000px;
+    height: 1600px;
 }
 
 .aboutText{
@@ -29,4 +29,12 @@
 
 .cardimg{
     height: 300px;
+}
+
+.aboutsecond{
+    display: block;
+    margin-top: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }

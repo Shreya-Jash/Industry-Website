@@ -6,7 +6,7 @@
     body{
         margin: 0;
         height: 900px;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     }
 
 
@@ -23,6 +23,7 @@ header{
     .getintouch{
         font-size: 20px;
         text-decoration: underline;
+        color: black;
     }
     .topwindow{
         padding-top: 40px;
